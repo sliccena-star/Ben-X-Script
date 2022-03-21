@@ -1,1 +1,5 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ezmicupballs/Ben-X-By-Dylan/main/Lua'))()
+
+Join The Discord Server:
+
+https://discord.gg/7urC2rSsJx
